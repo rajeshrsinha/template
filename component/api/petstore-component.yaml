@@ -14,7 +14,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  #owner: Guest
+  owner: user:guest
   providesApis:
     - petstore
     - streetlights
